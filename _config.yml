@@ -37,7 +37,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   HTML5 UP's sleek, responsive site template Prologue.
 author: 주식회사 GTM
 email: GTM.corp.kr@gmail.com
-avatar: assets/images/logo.jpg
+avatar: assets/images/GTM_logo.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -61,6 +61,10 @@ google_analytics:
 # The following settings are NECESSARY for the Prologue theme to run:
 # theme: jekyll-theme-prologue
 remote_theme: chrisbobbe/jekyll-theme-prologue
+
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 collections_dir: pages
 collections:
