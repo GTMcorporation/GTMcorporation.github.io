@@ -6,7 +6,7 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 
 // /* Variables */
-// @import "minimal-mistakes/variables";
+@import "minimal-mistakes/variables";
 
 /* Mixins and functions */
 @import "minimal-mistakes/vendor/breakpoint/breakpoint";
@@ -28,10 +28,10 @@
 //@import "minimal-mistakes/utilities";
 
 /* Layout specific */
-@import "minimal-mistakes/page";
-@import "minimal-mistakes/archive";
+// @import "minimal-mistakes/page";
+// @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
-@import "minimal-mistakes/print";
+// @import "minimal-mistakes/print";
 
 /* Core CSS */
 @import "minimal-mistakes/reset";
