@@ -35,7 +35,7 @@ cover-photo-alt: assets/images/banner.jpg
       "timestamp" : "1561592650522",
       "key" : "u48k",
       "mapWidth" : "640",
-      "mapHeight" : "480"
+      "mapHeight" : "420"
     }).render();
   </script>
 
