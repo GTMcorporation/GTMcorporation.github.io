@@ -6,4 +6,5 @@ layout: department
 title: 사업부 소개
 icon: fa-industry
 order: 3
+permalink: /department/
 ---

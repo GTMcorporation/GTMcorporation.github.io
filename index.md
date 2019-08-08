@@ -6,4 +6,5 @@ layout: home
 title: 회사 소개
 icon: fa-home
 order: 1
+permalink: /
 ---

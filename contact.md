@@ -4,9 +4,12 @@ subtitle: GTM 으로 연락하시려면...
 layout: splash
 icon: fa-address-card
 order: 5
+permalink: /contact/
 cover-photo: assets/images/banner.jpg
 cover-photo-alt: assets/images/banner.jpg
 ---
+
+
 
 ## 유선 연락처
 전화 : **[062-955-3366](tel:062-955-3366)**  
@@ -50,7 +53,7 @@ cover-photo-alt: assets/images/banner.jpg
 {: .notice--info}
 
 ---
-또는 아래 폼으로 직접 메일을 작성해주세요.
+아래 폼을 통해서 직접 메일을 보낼 수도 있습니다.
 <form method="post" action="https://formspree.io/{{ site.email }}">
   <div class="row">
     <div class="6u 12u$(mobile)"><input type="text" name="name" placeholder="Name" /></div>

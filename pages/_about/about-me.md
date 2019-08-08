@@ -1,10 +1,10 @@
 ---
-title: About Me
+title: About GTM
 icon: fa-user
 order: 2
 ---
 
-<a href="#" class="image featured"><img src="assets/images/pic08.jpg" alt="" /></a>
+<a href="#" class="image featured"><img src="assets/images/gtm_company_view_wide.jpg" alt="" /></a>
 
 <p>Tincidunt eu elit diam magnis pretium accumsan etiam id urna. Ridiculus
 ultricies curae quis et rhoncus velit. Lobortis elementum aliquet nec vitae

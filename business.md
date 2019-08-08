@@ -6,4 +6,5 @@ layout: business
 title: 사업 소개
 icon: fa-cogs
 order: 2
+permalink: /business/
 ---
