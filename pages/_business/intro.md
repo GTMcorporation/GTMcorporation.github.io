@@ -1,5 +1,5 @@
 ---
-title: Intro
+title: GTM 사업분야 소개
 cover-photo: assets/images/banner.jpg
 cover-photo-alt: example cover photo
 auto-header: none
@@ -7,8 +7,12 @@ icon: fa-comment
 order: 1
 ---
 
-## GTM은 뭐하는 회사일까요
-저도 **잘** 몰라여 헿
+## Main business of GTM
+### GTM 사업분야 소개
+GTM은 철강 원자재 기초 가공 및 판매  
+광범위한 금형 소재 관련 가공사업,  
+  
+그 외 다양한 대, 소형 금속 가공 사업을 진행하고 있습니다.
 
 <!---
 <header>

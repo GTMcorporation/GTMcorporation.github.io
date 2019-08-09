@@ -3,7 +3,7 @@ title: Contact
 subtitle: GTM 으로 연락하시려면...
 layout: splash
 icon: fa-address-card
-order: 5
+order: 4
 permalink: /contact/
 cover-photo: assets/images/banner.jpg
 cover-photo-alt: assets/images/banner.jpg
@@ -49,7 +49,7 @@ cover-photo-alt: assets/images/banner.jpg
 
 ---
 ## 온라인
-메일주소 : **<GTM.corp.kr@gmail.com>**
+메일주소 : **<gtmcorp@hanmail.net>** , **<GTM.corp.kr@gmail.com>**
 {: .notice--info}
 
 ---

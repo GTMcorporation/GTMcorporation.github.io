@@ -1,5 +1,5 @@
 ---
-title: Welcome to Jekyll!
+title: 금형 가공 사업
 icon: fa-check
 order: 3
 ---
