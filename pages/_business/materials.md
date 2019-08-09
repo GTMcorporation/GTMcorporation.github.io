@@ -2,12 +2,38 @@
 title: 원자재 관련 사업
 icon: fa-check
 order: 2
+gallery:
+  - url: assets/images/materials_gallery_1.jpg
+    image_path: assets/images/materials_gallery_1.jpg
+    alt: "placeholder image 1"
+  - url: assets/images/materials_gallery_2.jpg
+    image_path: assets/images/materials_gallery_2.jpg
+    alt: "placeholder image 2"
+  - url: /assets/images/materials_gallery_3.jpg
+    image_path: assets/images/materials_gallery_3.jpg
+    alt: "placeholder image 3"
+  - url: /assets/images/materials_gallery_4.jpg
+    image_path: assets/images/materials_gallery_4.jpg
+    alt: "placeholder image 4"
+  - url: /assets/images/materials_gallery_5.jpg
+    image_path: assets/images/materials_gallery_5.jpg
+    alt: "placeholder image 5"
+  - url: assets/images/materials_gallery_6.jpg
+    image_path: assets/images/materials_gallery_6.jpg
+    alt: "placeholder image 6"
+  - url: /assets/images/materials_gallery_7.jpg
+    image_path: assets/images/materials_gallery_7.jpg
+    alt: "placeholder image 7"
+  - url: /assets/images/materials_gallery_8.jpg
+    image_path: assets/images/materials_gallery_8.jpg
+    alt: "placeholder image 8"
+  - url: /assets/images/materials_gallery_9.jpg
+    image_path: assets/images/materials_gallery_9.jpg
+    alt: "placeholder image 9"
 ---
 
-금형 가공 및 각종 산업에 필요한 **기초 원자재**를 판매하고 있으며
+금형 가공 및 각종 산업에 필요한 **기초 원자재**를 풍부하게 보유하고 있으며  
+(**SS41, SM45C**등 각종 탄소강 및 **STD-11,61, HMD** 등 각종 특수강 다량 보유)  
+**고객의 니즈**에 맞추어 **절단 및 가공하여 제공**하고 있습니다.
 
-This Jekyll theme lets you build as many of these sections as you want. They live in the _sections folder in your project's root directory. For some examples, see the [GitHub repository](https://github.com/chrisbobbe/jekyll-theme-prologue). Just be sure to add some [frontmatter](https://jekyllrb.com/docs/frontmatter/) to each section.
-
-All sections have titles, which are listed in the site's navigation menu. At the top of each section, the section's title will render by default (e.g., Welcome to Jekyll!). If you want it to show something different (see Intro), add **auto-header: none** to your frontmatter, and add your text in a <h2> tag inside a <header> tag outside the frontmatter. You'll want to give each section an **order** parameter, also in the frontmatter, or it won't know where to put itself and will hide. Icons are from [Font Awesome](https://fontawesome.com/icons).
-
-You may notice that this section is written in Markdown -- either Markdown or html works!
+{% include gallery caption="각종 원자재 보유, 절단 및 기초 가공." %}
