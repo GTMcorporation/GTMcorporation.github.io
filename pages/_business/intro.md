@@ -7,8 +7,8 @@ icon: fa-comment
 order: 1
 ---
 
-## Main business of GTM
-### GTM 사업분야 소개
+## GTM 사업분야 소개
+### Main business of GTM
 GTM은 철강 원자재 기초 가공 및 판매  
 광범위한 금형 소재 관련 가공사업,  
   
