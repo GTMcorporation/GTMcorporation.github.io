@@ -3,10 +3,10 @@ title: 금형 가공 사업
 icon: fa-check
 order: 3
 gallery:
-  - url: assets/images/mold_gallery_1.jpg
+  - url: /assets/images/mold_gallery_1.jpg
     image_path: assets/images/mold_gallery_1.jpg
     alt: "placeholder image 1"
-  - url: assets/images/mold_gallery_2.jpg
+  - url: /assets/images/mold_gallery_2.jpg
     image_path: assets/images/mold_gallery_2.jpg
     alt: "placeholder image 2"
   - url: /assets/images/mold_gallery_3.jpg
