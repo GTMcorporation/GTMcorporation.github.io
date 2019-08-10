@@ -14,7 +14,7 @@ order: 1
 <h3>
 <a href="/business/#원자재-관련-사업">산업용 철강 원자재</a> 기초 가공 및 판매<br/><br/>
 <a href="/business/#금형-가공-사업">금형 블럭 가공</a>등 각종 대, 소형 금속 가공<br/><br/>
-<a href="/business/#금형-가공-사업">초대형 NC/CNC 가공</a><br/><br/>
+<a href="/business/#금형-가공-사업">초대형 MC/CNC 가공</a><br/><br/>
 </h3>
 
 #광주광역시 소재 #진곡산단  

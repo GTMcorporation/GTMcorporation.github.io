@@ -4,8 +4,9 @@ icon: fa-check
 order: 4
 ---
 
-This Jekyll theme lets you build as many of these sections as you want. They live in the _sections folder in your project's root directory. For some examples, see the [GitHub repository](https://github.com/chrisbobbe/jekyll-theme-prologue). Just be sure to add some [frontmatter](https://jekyllrb.com/docs/frontmatter/) to each section.
+[**파인디앤씨**](finednc.com)(삼성전자 1차 협력사), **인벤트**(에이텍솔루션 1차 협력사)  
+[**SKGC**](sk-gc.com), **현대테크**, **하이테크 21** 외 다수
 
-All sections have titles, which are listed in the site's navigation menu. At the top of each section, the section's title will render by default (e.g., Welcome to Jekyll!). If you want it to show something different (see Intro), add **auto-header: none** to your frontmatter, and add your text in a <h2> tag inside a <header> tag outside the frontmatter. You'll want to give each section an **order** parameter, also in the frontmatter, or it won't know where to put itself and will hide. Icons are from [Font Awesome](https://fontawesome.com/icons).
-
-You may notice that this section is written in Markdown -- either Markdown or html works!
+위와 같은 여러 거래처들과 오랜 신뢰를 바탕으로 함께 일하고 있으며,  
+그 외에도 다양한 고객들과 함께 일하고 있습니다.  
+지금 GTM의 고객이 되어보세요!  

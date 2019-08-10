@@ -1,5 +1,5 @@
 ---
-title: GTM 첫 포스팅
+title: GTM 홈페이지 개설
 author: GTM
 layout: post
 layouts_gallery:
@@ -39,7 +39,8 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-사실 첫 포스팅 아니고 일단은 테스트임. 홈페이지 정식 오픈하고 나면 제대로 써봄.
+GTM 홈페이지가 아직 작성중입니다.  
+정식 오픈 이후 첫 포스팅이 작성될 예정입니다.
 
 ## 이건 figure_row 테스트입니다.
 {% include feature_row %}
@@ -126,3 +127,11 @@ feature_row:
 일케|나왔었나?
 잘좀|
 |나와봐라
+
+
+## 이미지 정렬 테스트
+
+![image-left](/assets/images/unsplash-gallery-image-1.jpg){: .align-left}
+
+나머지는 어떻게 나올까?
+이미지를 좀더 작게 해볼까?
