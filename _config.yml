@@ -71,3 +71,6 @@ collections:
   - about
   - business
   - department
+
+plugins:
+  - jekyll-sitemap

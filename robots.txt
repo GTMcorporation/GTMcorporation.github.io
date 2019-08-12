@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://greatman.co.kr/sitemap.xml
