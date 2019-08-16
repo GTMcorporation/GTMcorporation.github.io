@@ -39,6 +39,10 @@ author: 주식회사 GTM
 email: GTM.corp.kr@gmail.com
 avatar: assets/images/GTM_logo.png
 
+# tel, fax
+tel_number: +82-62-955-3399
+fax_number: +82-62-955-3367
+
 # You'll want to customize url and baseurl for your own site:
 baseurl:  # the subpath of your site, e.g. /blog
 url: "http://greatman.co.kr" # the base hostname & protocol for your site

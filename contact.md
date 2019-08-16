@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: GTM 으로 연락하시려면...
+subtitle: 아래 연락처들을 통해 GTM으로 연락, 방문하실 수 있습니다.
 layout: splash
 icon: fa-address-card
 order: 4
