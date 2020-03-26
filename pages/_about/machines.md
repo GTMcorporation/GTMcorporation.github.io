@@ -30,7 +30,7 @@ order: 4
         <a href="/assets/images/machine_7.jpg" class="image fit" title="컴퓨터 절단기 LEADGRAPH"><img src="{{ 'assets/images/small/machine_7.jpg' | relative_url }}" alt="컴퓨터 절단기"/></a>
         <header>
           <h2>컴퓨터 절단기</h2>
-          <p><b>제품명 : LEADGRAPH<br/> 업체명 : 고이께코리아 <br/> 가공범위 : 2500×10000 <br/> 수량 : 3대 </b></p>
+          <p><b>제품명 : LEADGRAPH<br/> 업체명 : KOIKEKOREA ENGINEEING <br/> 가공범위 : 2500×10000 <br/> 수량 : 3대 </b></p>
         </header>
       </div>
         <div class="item">
@@ -66,14 +66,14 @@ order: 4
         <a href="/assets/images/machine_12.jpg" class="image fit" title="5호 밀링 DMB-U5"><img src="{{ 'assets/images/small/machine_12.jpg' | relative_url }}" alt="5호 밀링 DMB-U5"/></a>
         <header>
           <h2>범용 밀링 5호기</h2>
-          <p><b>제품명 : DMB-U5<br/> 업체명 : 두산 <br/> 가공범위 : 450 * 1800<br/> 수량 : 2대 </b></p>
+          <p><b>제품명 : DMB-U5<br/> 업체명 : 두산 <br/> 가공범위 : 450×1800<br/> 수량 : 2대 </b></p>
         </header>
       </div>
       <div class="item">
         <a href="/assets/images/machine_13.jpg" class="image fit" title="밀링기(플래너)"><img src="{{ 'assets/images/small/machine_13.jpg' | relative_url }}" alt="밀링기(플래너)"/></a>
         <header>
           <h2>밀링기(플래너)</h2>
-          <p><b>제품명 : 밀링기(플래너)<br/> 업체명 : 히타치 세이키 <br/> 가공범위 : 1800 * 5000<br/> 수량 : 1대 </b></p>
+          <p><b>제품명 : 밀링기(플래너)<br/> 업체명 : 히타치 세이키 <br/> 가공범위 : 1800×5000<br/> 수량 : 1대 </b></p>
         </header>
       </div>
       <div class="item">
@@ -87,7 +87,7 @@ order: 4
         <a href="/assets/images/machine_16.jpg" class="image fit" title="평면 연삭기(소)"><img src="{{ 'assets/images/small/machine_16.jpg' | relative_url }}" alt="평면 연삭기(소)"/></a>
         <header>
           <h2>평면 연삭기(소)</h2>
-          <p><b>제품명 : 평면 연삭기(소)<br/> 업체명 : (유)유일연마<br/> 가공범위 : 600 * 1200<br/> 수량 : 1대 </b></p>
+          <p><b>제품명 : 평면 연삭기(소)<br/> 업체명 : (유)유일연마<br/> 가공범위 : 600×1200<br/> 수량 : 1대 </b></p>
         </header>
       </div>
       <div class="item">
@@ -110,7 +110,7 @@ order: 4
         <a href="/assets/images/machine_14.jpg" class="image fit" title="밀링기(플래너) HF-3E"><img src="{{ 'assets/images/small/machine_14.jpg' | relative_url }}" alt="밀링기(플래너) HF-3E"/></a>
         <header>
           <h2>밀링기(플래너)</h2>
-          <p><b>제품명 : HF-3E<br/> 업체명 : 신일본기계 <br/> 가공범위 : 1500 * 4000<br/> 수량 : 1대 </b></p>
+          <p><b>제품명 : HF-3E<br/> 업체명 : 신일본기계 <br/> 가공범위 : 1500×4000<br/> 수량 : 1대 </b></p>
         </header>
       </div>
       <div class="item">
@@ -124,14 +124,14 @@ order: 4
         <a href="/assets/images/machine_17.jpg" class="image fit" title="평면 연삭기(중)"><img src="{{ 'assets/images/small/machine_17.jpg' | relative_url }}" alt="평면 연삭기(중)"/></a>
         <header>
           <h2>평면 연삭기(중)</h2>
-          <p><b>제품명 : 평면 연삭기(중)<br/> 업체명 : (주)화천기공<br/> 가공범위 : 700 * 1500<br/> 수량 : 2대 </b></p>
+          <p><b>제품명 : 평면 연삭기(중)<br/> 업체명 : (주)화천기공<br/> 가공범위 : 700×1500<br/> 수량 : 2대 </b></p>
         </header>
       </div>
       <div class="item">
         <a href="/assets/images/machine_10.jpg" class="image fit" title="라디알 드릴머신(소)"><img src="{{ 'assets/images/small/machine_10.jpg' | relative_url }}" alt="라디알 드릴머신(소)"/></a>
         <header>
           <h2>라디알 드릴머신(소)</h2>
-          <p><b>제품명 : 라디알 드릴머신(소)<br/> 업체명 : (주)봉신 <br/> 가공범위 : 1750 * 3000 <br/> 수량 : 1대 </b></p>
+          <p><b>제품명 : 라디알 드릴머신(소)<br/> 업체명 : (주)봉신 <br/> 가공범위 : 1750×3000 <br/> 수량 : 1대 </b></p>
         </header>
       </div>
     </div>
@@ -161,7 +161,7 @@ order: 4
         <a href="/assets/images/machine_18.jpg" class="image fit" title="평면 연삭기(대)"><img src="{{ 'assets/images/small/machine_18.jpg' | relative_url }}" alt="평면 연삭기(대)"/></a>
         <header>
           <h2>평면 연삭기(대)</h2>
-          <p><b>제품명 : 평면 연삭기(대)<br/> 업체명 : PROTH<br/> 가공범위 : 1500 * 3000<br/> 수량 : 1대 </b></p>
+          <p><b>제품명 : 평면 연삭기(대)<br/> 업체명 : PROTH<br/> 가공범위 : 1500×3000<br/> 수량 : 1대 </b></p>
         </header>
       </div>
     </div>
@@ -171,49 +171,49 @@ order: 4
   <div class="row">
     <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="/assets/images/machine_8.jpg" class="image fit" title="5면 M/C 가공기 MVR-35FM"><img src="{{ 'assets/images/small/machine_8.jpg' | relative_url }}" alt="CNC 가공기"/></a>
+        <a href="/assets/images/machine_8.jpg" class="image fit" title="CNC M/C MVR-35FM"><img src="{{ 'assets/images/small/machine_8.jpg' | relative_url }}" alt="CNC M/C MVR-35FM"/></a>
         <header>
-          <h2>5면 M/C 가공기</h2>
+          <h2>CNC 머시닝 센터</h2>
           <p><b>제품명 : MVR-35FM<br/> 업체명 : MITSUBISHI <br/> 가공범위 : 3000×6000 <br/> 수량 : 1대 </b></p>
         </header>
       </div>
       <div class="item">
-        <a href="/assets/images/machine_9.jpg" class="image fit" title="밀링 M/C MCV-BT"><img src="{{ 'assets/images/small/machine_9.jpg' | relative_url }}" alt="CNC 가공기"/></a>
+        <a href="/assets/images/machine_22.jpg" class="image fit" title="CNC M/C SIRIUS-M/C (12호기)"><img src="{{ 'assets/images/small/machine_22.jpg' | relative_url }}" alt="CNC M/C SIRIUS-M/C (12호기)"/></a>
         <header>
-          <h2>밀링 M/C</h2>
+          <h2>CNC 머시닝 센터</h2>
+          <p><b>제품명 : SIRIUS-M/C (12호기)<br/> 업체명 : (주)화천기공<br/> 가공범위 : 1500×2500<br/> 수량 : 1대 </b></p>
+        </header>
+      </div>
+    </div>
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="/assets/images/machine_20.jpg" class="image fit" title="CNC M/C RB45M"><img src="{{ 'assets/images/small/machine_20.jpg' | relative_url }}" alt="CNC M/C RB45M"/></a>
+        <header>
+          <h2>CNC 머시닝 센터</h2>
+          <p><b>제품명 : RB45M<br/> 업체명 : 현대중공업<br/> 가공범위 : 2800×6000<br/> 수량 : 1대 </b></p>
+        </header>
+      </div>
+      <div class="item">
+        <a href="/assets/images/machine_21.jpg" class="image fit" title="CNC M/C 85V-M/C (8호기)"><img src="{{ 'assets/images/small/machine_21.jpg' | relative_url }}" alt="CNC M/C 85V-M/C (8호기)"/></a>
+        <header>
+          <h2>CNC 머시닝 센터</h2>
+          <p><b>제품명 : 85V-M/C (8호기)<br/> 업체명 : (주)화천기공<br/> 가공범위 : 800×2000<br/> 수량 : 1대 </b></p>
+        </header>
+      </div>
+    </div>
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="/assets/images/machine_9.jpg" class="image fit" title="CNC M/C MCV-BT"><img src="{{ 'assets/images/small/machine_9.jpg' | relative_url }}" alt="CNC M/C MCV-BT"/></a>
+        <header>
+          <h2>CNC 머시닝 센터</h2>
           <p><b>제품명 : MCV-BT<br/> 업체명 : OKUMA <br/> 가공범위 : 2500×4000 <br/> 수량 : 1대 </b></p>
         </header>
       </div>
-    </div>
-    <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="/assets/images/machine_20.jpg" class="image fit" title="5면가공기 RB45M"><img src="{{ 'assets/images/small/machine_20.jpg' | relative_url }}" alt="5면가공기 RB45M"/></a>
+        <a href="/assets/images/machine_23.jpg" class="image fit" title="보링 머신 YMS-H25Q"><img src="{{ 'assets/images/small/machine_23.jpg' | relative_url }}" alt="보링 머신 YMS-H25Q"/></a>
         <header>
-          <h2>5면가공기</h2>
-          <p><b>제품명 : RB45M<br/> 업체명 : 현대중공업<br/> 가공범위 : 2800 * 6000<br/> 수량 : 1대 </b></p>
-        </header>
-      </div>
-      <div class="item">
-        <a href="/assets/images/machine_21.jpg" class="image fit" title="CNC 밀링 M/C (8호기)"><img src="{{ 'assets/images/small/machine_21.jpg' | relative_url }}" alt="CNC 밀링 M/C (8호기)"/></a>
-        <header>
-          <h2>CNC 밀링 M/C (8호기)</h2>
-          <p><b>제품명 : CNC 밀링 M/C (8호기)<br/> 업체명 : (주)화천기공<br/> 가공범위 : 800 * 2000<br/> 수량 : 1대 </b></p>
-        </header>
-      </div>
-    </div>
-    <div class="4u 12u$(mobile)">
-      <div class="item">
-        <a href="/assets/images/machine_22.jpg" class="image fit" title="CNC 밀링 M/C (12호기)"><img src="{{ 'assets/images/small/machine_22.jpg' | relative_url }}" alt="CNC 밀링 M/C (12호기)"/></a>
-        <header>
-          <h2>CNC 밀링 M/C (12호기)</h2>
-          <p><b>제품명 : CNC 밀링 M/C (12호기)<br/> 업체명 : (주)화천기공<br/> 가공범위 : 1500 * 2500<br/> 수량 : 1대 </b></p>
-        </header>
-      </div>
-      <div class="item">
-        <a href="/assets/images/machine_23.jpg" class="image fit" title="YMS H250"><img src="{{ 'assets/images/small/machine_23.jpg' | relative_url }}" alt="YMS H250"/></a>
-        <header>
-          <h2>YMS H250</h2>
-          <p><b>제품명 : YMS H250<br/> 업체명 : MAZAK<br/> 가공범위 : 1700 * 4000<br/> 수량 : 1대 </b></p>
+          <h2>보링 머신</h2>
+          <p><b>제품명 : YMS-H25Q<br/> 업체명 : MAZAK<br/> 가공범위 : 1700×4000<br/> 수량 : 1대 </b></p>
         </header>
       </div>
     </div>
