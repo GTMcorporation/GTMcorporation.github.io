@@ -17,6 +17,13 @@ order: 4
           <p><b>제품명 : 반자동 절단기<br/> 업체명 : KOIKEKOREA ENGINEEING <br/> 가공범위 : -<br/> 수량 : 2대 </b></p>
         </header>
       </div>
+      <div class="item">
+        <a href="/assets/images/machine_saw_2.jpg" class="image fit" title="BAND SAW(중)"><img src="{{ 'assets/images/small/machine_saw_2.jpg' | relative_url }}" alt="BAND SAW(중)"/></a>
+        <header>
+          <h2>BAND SAW(중)</h2>
+          <p><b>제품명 : BAND SAW<br/> 업체명 : 우성산업 <br/> 가공범위 : 500 <br/> 수량 : 2대 </b></p>
+        </header>
+      </div>
     </div>
     <div class="4u 12u$(mobile)">
       <div class="item">
@@ -26,13 +33,27 @@ order: 4
           <p><b>제품명 : LEADGRAPH<br/> 업체명 : 고이께코리아 <br/> 가공범위 : 2500×10000 <br/> 수량 : 3대 </b></p>
         </header>
       </div>
+        <div class="item">
+        <a href="/assets/images/machine_saw_3.jpg" class="image fit" title="BAND SAW(중)"><img src="{{ 'assets/images/small/machine_saw_3.jpg' | relative_url }}" alt="BAND SAW(중)"/></a>
+        <header>
+          <h2>BAND SAW(중)</h2>
+          <p><b>제품명 : BAND SAW(중)<br/> 업체명 : 우성산업 <br/> 가공범위 : 520 <br/> 수량 : 1대 </b></p>
+        </header>
+      </div>
     </div>
     <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="/assets/images/machine_11.jpg" class="image fit" title="BAND SAW"><img src="{{ 'assets/images/small/machine_11.jpg' | relative_url }}" alt="BAND SAW"/></a>
+        <a href="/assets/images/machine_saw_1.jpg" class="image fit" title="BAND SAW(소)"><img src="{{ 'assets/images/small/machine_saw_1.jpg' | relative_url }}" alt="BAND SAW(소)"/></a>
         <header>
-          <h2>BAND SAW</h2>
-          <p><b>제품명 : BAND SAW<br/> 업체명 : 우성산업 <br/> 가공범위 : 450, 500(2대), 520, 750 <br/> 수량 : 5대 </b></p>
+          <h2>BAND SAW(소)</h2>
+          <p><b>제품명 : BAND SAW(소)<br/> 업체명 : 우성산업 <br/> 가공범위 : 450<br/> 수량 : 1대 </b></p>
+        </header>
+      </div>
+        <div class="item">
+        <a href="/assets/images/machine_saw_4.jpg" class="image fit" title="BAND SAW(대)"><img src="{{ 'assets/images/small/machine_saw_4.jpg' | relative_url }}" alt="BAND SAW(대)"/></a>
+        <header>
+          <h2>BAND SAW(대)</h2>
+          <p><b>제품명 : BAND SAW(대)<br/> 업체명 : 우성산업 <br/> 가공범위 : 750 <br/> 수량 : 1대 </b></p>
         </header>
       </div>
     </div>
