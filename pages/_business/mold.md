@@ -4,22 +4,22 @@ icon: fa-check
 order: 3
 gallery:
   - url: /assets/images/mold_gallery_1.jpg
-    image_path: assets/images/mold_gallery_1.jpg
+    image_path: assets/images/small/mold_gallery_1.jpg
     alt: "placeholder image 1"
   - url: /assets/images/mold_gallery_2.jpg
-    image_path: assets/images/mold_gallery_2.jpg
+    image_path: assets/images/small/mold_gallery_2.jpg
     alt: "placeholder image 2"
   - url: /assets/images/mold_gallery_3.jpg
-    image_path: assets/images/mold_gallery_3.jpg
+    image_path: assets/images/small/mold_gallery_3.jpg
     alt: "placeholder image 3"
   - url: /assets/images/mold_gallery_4.jpg
-    image_path: assets/images/mold_gallery_4.jpg
+    image_path: assets/images/small/mold_gallery_4.jpg
     alt: "placeholder image 4"
   - url: /assets/images/mold_gallery_5.jpg
-    image_path: assets/images/mold_gallery_5.jpg
+    image_path: assets/images/small/mold_gallery_5.jpg
     alt: "placeholder image 5"
   - url: /assets/images/mold_gallery_6.jpg
-    image_path: assets/images/mold_gallery_6.jpg
+    image_path: assets/images/small/mold_gallery_6.jpg
     alt: "placeholder image 6"
 ---
 

@@ -4,31 +4,31 @@ icon: fa-check
 order: 2
 gallery:
   - url: /assets/images/materials_gallery_1.jpg
-    image_path: assets/images/materials_gallery_1.jpg
+    image_path: assets/images/small/materials_gallery_1.jpg
     alt: "placeholder image 1"
   - url: /assets/images/materials_gallery_2.jpg
-    image_path: assets/images/materials_gallery_2.jpg
+    image_path: assets/images/small/materials_gallery_2.jpg
     alt: "placeholder image 2"
   - url: /assets/images/materials_gallery_3.jpg
-    image_path: assets/images/materials_gallery_3.jpg
+    image_path: assets/images/small/materials_gallery_3.jpg
     alt: "placeholder image 3"
   - url: /assets/images/materials_gallery_4.jpg
-    image_path: assets/images/materials_gallery_4.jpg
+    image_path: assets/images/small/materials_gallery_4.jpg
     alt: "placeholder image 4"
   - url: /assets/images/materials_gallery_5.jpg
-    image_path: assets/images/materials_gallery_5.jpg
+    image_path: assets/images/small/materials_gallery_5.jpg
     alt: "placeholder image 5"
   - url: /assets/images/materials_gallery_6.jpg
-    image_path: assets/images/materials_gallery_6.jpg
+    image_path: assets/images/small/materials_gallery_6.jpg
     alt: "placeholder image 6"
   - url: /assets/images/materials_gallery_7.jpg
-    image_path: assets/images/materials_gallery_7.jpg
+    image_path: assets/images/small/materials_gallery_7.jpg
     alt: "placeholder image 7"
   - url: /assets/images/materials_gallery_8.jpg
-    image_path: assets/images/materials_gallery_8.jpg
+    image_path: assets/images/small/materials_gallery_8.jpg
     alt: "placeholder image 8"
   - url: /assets/images/materials_gallery_9.jpg
-    image_path: assets/images/materials_gallery_9.jpg
+    image_path: assets/images/small/materials_gallery_9.jpg
     alt: "placeholder image 9"
 ---
 
